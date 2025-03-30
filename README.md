@@ -1,3 +1,6 @@
-<p align="center">
-    <img width="1000" src="redoran.webp" alt="banner">
-</p>
+## Hello friends 👋
+
+#### Software Development student 💻 , gamer 🕹️, adventurer 🗺️, explorer 🌿
+
+- ⚙️ C
+- 🐍 Python
