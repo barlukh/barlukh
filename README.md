@@ -7,7 +7,7 @@ Feel free to explore my projects, and don’t hesitate to reach out — I’d lo
 
 - 📖 Learning:
   - Low-level programming in C
-  - Pygame and basics of GameDev
+  - Raylib, Pygame and basics of GameDev
 
 - ⚙️ Languages:
   - C
