@@ -12,8 +12,3 @@ Feel free to explore my projects, and don’t hesitate to reach out — I’d lo
   - Learning basics of C++
   - Programming in Python
   - Raylib, Pygame and basics of GameDev
-
-- ⚙️ Languages:
-  - C
-  - C++
-  - Python
